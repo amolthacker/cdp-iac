@@ -8,7 +8,7 @@ Create a full-stack CDP-DC pseudo distributed cluster
 `terraform 0.12+`
 
 
-## Instructions for CentOS 7 on EC2(AWS) using Terraform
+## Instructions for CentOS 7 on EC2(AWS) using Terraform on macOS
 
 ```
 $ brew install terraform
