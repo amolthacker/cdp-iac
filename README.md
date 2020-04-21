@@ -1,6 +1,6 @@
 # CDP IAC
 
-Create a full-stack CDP-DC pseudo distributed cluster
+Create a full-stack [CDP-DC pseudo distributed](https://github.com/amolthacker/pseudo-distributed-cdp) cluster
 
 
 ## Prerequistes
